@@ -1,0 +1,6 @@
+{
+    "description": "Tool to build and unpack LITTLEFS images",
+    "name": "tool-mklittlefs",
+    "url": "https://github.com/aeternam-eng/mklittlefs",
+    "version": "1.00.0"
+}
